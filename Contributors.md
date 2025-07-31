@@ -5,6 +5,7 @@ Welcome to the contributors list! This is where you'll add your name as part of 
 ## How to add your name
 
 Add your name in the following format:
+
 - [Your Name](https://github.com/your-github-username) - A brief message about yourself or this contribution
 
 ## Contributors List
@@ -15,12 +16,13 @@ Add your name in the following format:
 - [Priyanshi jat](https://github.com/priyanshijat) - Hello Dosto! I'm priyanshi jat and I'm fresher in Devops world and started my devops journey with trainwithshubham and it is an amazing platform to learn devops. Thanks to shubham bhaiya and tws community.
 - [sravya bolla](https://github.com/iam-bolla)-here is my first contrubution
 - [Meenakshi Rawat](https://github.com/meenakshiraw) - thanks for teaching us github deeply ....
-
+- [Ganesh Aware](https://github.com/ganeshaware18) - exploring the devops field
 <!-- Add your name above this line -->
 
 ---
 
 **Instructions:**
+
 1. Fork this repository
 2. Clone your fork to your local machine
 3. Create a new branch

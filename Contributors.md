@@ -2,12 +2,12 @@
 
 Welcome to the contributors list! This is where you'll add your name as part of your first open source contribution.
 
-## How to add your name
+## How to add your name:
 
 Add your name in the following format:
 - [Your Name](https://github.com/your-github-username) - A brief message about yourself or this contribution
 
-## Contributors List
+## Contributors List:
 
 - [Md. Afzal Hassan](https://github.com/iemafzalhassan) - Hello world! This is my first open source contribution.
 - [Himanshu Kumar](https://github.com/H1manshu-Kumar) - Here comes my first open-source contribution 🚀 ✨

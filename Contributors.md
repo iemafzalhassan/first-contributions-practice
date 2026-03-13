@@ -15,7 +15,7 @@ Add your name in the following format:
 - [Priyanshi jat](https://github.com/priyanshijat) - Hello Dosto! I'm priyanshi jat and I'm fresher in Devops world and started my devops journey with trainwithshubham and it is an amazing platform to learn devops. Thanks to shubham bhaiya and tws community.
 - [sravya bolla](https://github.com/iam-bolla)-here is my first contrubution
 - [Meenakshi Rawat](https://github.com/meenakshiraw) - thanks for teaching us github deeply ....
-
+- [Muhammad Ishaq](https://github.com/muhammadiishaq) - Hello Dosto..!!👋 | I'm Muhammad Ishaq, a fresher in the DevOps world. I have kickstarted my journey with TrainWithShubham, and it’s truly an amazing platform to learn DevOps step by step.Huge thanks to Shubham Bhaiya, the incredible TWS community, and a big shoutout to Afzal bhaiya for the constant support and motivation.
 <!-- Add your name above this line -->
 
 ---
